@@ -1,0 +1,7 @@
+{
+	"name":"Bilardo pool",
+	"ticker":"BLRD",
+	"description":"We'll do anything to make sure you win some money!",
+	"homepage":"https://bilardo.ar", 
+	"extended": "https://bilardo.ar/ext_metadata.json"
+}
